@@ -3,7 +3,7 @@ Lamb's Problem, Second type.
 Refer to Johnson(1974)： https://academic.oup.com/gji/article/37/1/99/678320
 
 :copyright:
-    Nanqiao Du (nqdu@foxmai.com), April 2019
+    Nanqiao Du (nqdu@foxmail.com), April 2019
 :license:
     GNU General Public License, Version 3
     (http://www.gnu.org/copyleft/gpl.html)
